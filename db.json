@@ -30,5 +30,181 @@
             "isBooked": true
         }
     ],
-    "freelancers": []
+    "freelancers": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "john@example.com",
+            "password": "password",
+            "profession": "Web Developer",
+            "skills": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "hourly_rate": 25,
+            "profile_picture": "profile1.jpg",
+            "isBooked": false
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane@example.com",
+            "password": "password",
+            "profession": "Graphic Designer",
+            "skills": [
+                "Photoshop",
+                "Illustrator"
+            ],
+            "hourly_rate": 30,
+            "profile_picture": "profile2.jpg",
+            "isBooked": true
+        },
+        {
+            "id": 3,
+            "name": "John Kumar",
+            "email": "johnkumar@example.com",
+            "password": "password",
+            "profession": "Student",
+            "skills": [
+                "React.js",
+                "Chakra",
+                "Typescript"
+            ],
+            "hourly_rate": 20,
+            "profile_picture": "profile1.jpg",
+            "isBooked": false
+        },
+        {
+            "id": 4,
+            "name": "Pooja",
+            "email": "Pooja@example.com",
+            "password": "password",
+            "profession": "Graphic Designer",
+            "skills": [
+                "Photoshop",
+                "Illustrator"
+            ],
+            "hourly_rate": 27,
+            "profile_picture": "https://thumbs.dreamstime.com/b/friendly-adult-casual-dressed-business-woman-student-girl-standing-straight-headshot-portrait-office-183889444.jpg",
+            "isBooked": true
+        },
+        {
+            "id": 5,
+            "name": "Praveen",
+            "email": "Praveen@example.com",
+            "password": "password",
+            "profession": "Web Developer",
+            "skills": [
+                "Angular",
+                "Bootstrap",
+                "JavaScript"
+            ],
+            "hourly_rate": 50,
+            "profile_picture": "https://thumbs.dreamstime.com/z/casual-employee-bearded-serious-man-shirt-eyeglasses-sitting-window-front-camera-office-143437112.jpg",
+            "isBooked": false
+        },
+        {
+            "id": 6,
+            "name": "Smith",
+            "email": "Smith@example.com",
+            "password": "password",
+            "profession": "Student",
+            "skills": [
+                "Photoshop",
+                "Illustrator"
+            ],
+            "hourly_rate": 40,
+            "profile_picture": "https://thumbs.dreamstime.com/z/casual-employee-bearded-serious-man-shirt-eyeglasses-sitting-window-front-camera-office-143437112.jpg",
+            "isBooked": true
+        },
+        {
+            "id": 7,
+            "name": "Ram",
+            "email": "john@example.com",
+            "password": "password",
+            "profession": "Web Developer",
+            "skills": [
+                "React.js",
+                "Material UI",
+                "Typescript"
+            ],
+            "hourly_rate": 60,
+            "profile_picture": "https://thumbs.dreamstime.com/z/european-business-man-working-project-portrait-attractive-modern-office-occupation-work-online-education-lifestyle-104598749.jpg",
+            "isBooked": false
+        },
+        {
+            "id": 8,
+            "name": "Smitha",
+            "email": "Smitha@example.com",
+            "password": "password",
+            "profession": "Graphic Designer",
+            "skills": [
+                "Photoshop",
+                "Illustrator"
+            ],
+            "hourly_rate": 75,
+            "profile_picture": "https://thumbs.dreamstime.com/b/young-business-woman-glasses-38456596.jpg",
+            "isBooked": true
+        },
+        {
+            "id": 9,
+            "name": "Deeksha",
+            "email": "Deeksha@example.com",
+            "password": "password",
+            "profession": "Student",
+            "skills": [
+                "Photoshop",
+                "Illustrator"
+            ],
+            "hourly_rate": 55,
+            "profile_picture": "https://th.bing.com/th/id/OIP.lr49uNAvWSxrls42bXxToAAAAA?pid=ImgDet&w=210&h=365&rs=1",
+            "isBooked": true
+        },
+        {
+            "name": "ana",
+            "profile_picture": "https://th.bing.com/th/id/OIP.f_XOp5S3z4exXS6XZUgqIAHaHD?pid=ImgDet&rs=1",
+            "email": "ana@gmail.com",
+            "password": "123",
+            "profession": "Student",
+            "hourly_rate": "30",
+            "skills": [
+                "html",
+                "css",
+                "js"
+            ],
+            "isBooked": false,
+            "id": 10
+        },
+        {
+            "name": "Kumar",
+            "profile_picture": "https://th.bing.com/th/id/OIP.y0sS8fq5LwuX5XKVKx9rEQHaLb?pid=ImgDet&rs=1",
+            "email": "Kumar@gmail.com",
+            "password": "123",
+            "profession": "Web Developer",
+            "hourly_rate": "300",
+            "skills": [
+                "html",
+                "css",
+                "js"
+            ],
+            "isBooked": false,
+            "id": 11
+        },
+        {
+            "name": "pooja",
+            "profile_picture": "https://th.bing.com/th/id/OIP.f_XOp5S3z4exXS6XZUgqIAHaHD?pid=ImgDet&rs=1",
+            "email": "pooja@gmail.com",
+            "password": "123",
+            "profession": "Web Developer",
+            "hourly_rate": "325",
+            "skills": [
+                "react",
+                "chakra",
+                "ts"
+            ],
+            "isBooked": false,
+            "id": 12
+        }
+    ]
 }

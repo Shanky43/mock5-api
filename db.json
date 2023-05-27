@@ -43,7 +43,7 @@
                 "JavaScript"
             ],
             "hourly_rate": 25,
-            "profile_picture": "profile1.jpg",
+            "profile_picture": "https://thumbs.dreamstime.com/z/writer-busy-digitalising-his-work-handwritten-notebook-to-laptop-young-caucasian-male-latest-novel-digital-format-modern-94090936.jpg",
             "isBooked": false
         },
         {
@@ -57,7 +57,7 @@
                 "Illustrator"
             ],
             "hourly_rate": 30,
-            "profile_picture": "profile2.jpg",
+            "profile_picture": "https://thumbs.dreamstime.com/z/bearded-man-using-laptop-preparing-project-plan-sitting-table-his-modern-home-concentrated-writing-new-ideas-notepad-137085632.jpg",
             "isBooked": true
         },
         {
@@ -72,7 +72,7 @@
                 "Typescript"
             ],
             "hourly_rate": 20,
-            "profile_picture": "profile1.jpg",
+            "profile_picture": "https://thumbs.dreamstime.com/z/close-up-portrait-serious-young-businessman-sitting-using-tablet-computer-office-close-up-portrait-thinking-young-99301077.jpg",
             "isBooked": false
         },
         {
